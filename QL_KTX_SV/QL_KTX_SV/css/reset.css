@@ -1,0 +1,12 @@
+.img-cover{
+	object-fit: cover;
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+.img-scaledown{
+	object-fit: scale-down;
+    height: 100%;
+    width: 100%;
+    display: block;
+}
